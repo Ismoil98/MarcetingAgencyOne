@@ -10,7 +10,7 @@ const Cases = () => {
           </h2>
           <RiArrowRightLine className="w-6 h-6"/>
         </div>
-        <ul className="flex flex-wrap gap-5">
+        <ul className="flex flex-wrap gap-[2%]">
           <li className="w-[49%]"> 
               <img className="w-full" src="./cases1.png" alt="cases image" />
               <h2 className="font-medium text-[24px] leading-[31px] mt-3">

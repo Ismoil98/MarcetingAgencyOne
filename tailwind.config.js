@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'intern-pattern': "url('./intern.png')",
+      },
       colors: {
         mainBg: {
           DEFAULT: '#A2A2FC'
