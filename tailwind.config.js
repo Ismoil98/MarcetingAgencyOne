@@ -22,6 +22,9 @@ export default {
         third: {
           DEFAULT: '#DFE0DF'
         },
+        purpleSecond: {
+          DEFAULT: '#AB1AFF'
+        },
         blackSecond: {
           DEFAULT: '#242424'
         },
